@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\bin\Debug\net7.0\SmartHoustSystemControl.exe
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\bin\Debug\net7.0\SmartHoustSystemControl.deps.json
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\bin\Debug\net7.0\SmartHoustSystemControl.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\bin\Debug\net7.0\SmartHoustSystemControl.dll
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\bin\Debug\net7.0\SmartHoustSystemControl.pdb
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\obj\Debug\net7.0\SmartHoustSystemControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\obj\Debug\net7.0\SmartHoustSystemControl.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\obj\Debug\net7.0\SmartHoustSystemControl.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\obj\Debug\net7.0\SmartHoustSystemControl.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\obj\Debug\net7.0\SmartHoustSystemControl.dll
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\obj\Debug\net7.0\refint\SmartHoustSystemControl.dll
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\obj\Debug\net7.0\SmartHoustSystemControl.pdb
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\obj\Debug\net7.0\SmartHoustSystemControl.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_7.Bolum\Project_7\SmartHoustSystemControl\obj\Debug\net7.0\ref\SmartHoustSystemControl.dll

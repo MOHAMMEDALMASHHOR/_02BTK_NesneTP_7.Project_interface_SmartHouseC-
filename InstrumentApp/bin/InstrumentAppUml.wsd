@@ -1,0 +1,29 @@
+@startuml Instrument APPLICATION
+title InstrumentApp
+interface Instrument{
+   +play():void 
+}
+interface KeyboardInstrument{
+    +press():void
+}
+Interface ElectronicInstrument{
+    +tune():void
+}
+class Orchestra{
+    -Instrument:Instruments[]
+    +PlayAll():void
+}
+class Piano{
+   +play():void 
+    +press():void
+}
+class Guitar{
+    +Play():void
+    +tune():void
+}
+Piano .up-|> KeyboardInstrument
+Piano .up-|> Instrument
+Guitar .up-|> Instrument
+Guitar .up-|> ElectronicInstrument
+hide empty members
+@enduml

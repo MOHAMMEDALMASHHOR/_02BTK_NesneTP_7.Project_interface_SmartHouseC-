@@ -1,0 +1,10 @@
+﻿Light light = new Light();
+light.TurnOn();
+light.ChangeColor("Red");
+light.ChangeColor("");
+light.TurnOff();
+System.Console.WriteLine("=======================");
+Thermostat thermostat = new Thermostat();
+thermostat.TurnOn();
+thermostat.ChangeTemperature();
+thermostat.TurnOff();
